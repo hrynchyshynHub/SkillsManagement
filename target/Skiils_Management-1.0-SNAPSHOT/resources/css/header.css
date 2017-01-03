@@ -1,0 +1,17 @@
+.menu{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black;
+    float: left;
+    margin: 2px;
+    text-decoration: none;
+    font-family: "Arial Black";
+    font-size: 14pt;
+
+}
+.clearfix{
+    clear: both;
+}
+.wrapper{
+    margin-left: 300px;
+}
