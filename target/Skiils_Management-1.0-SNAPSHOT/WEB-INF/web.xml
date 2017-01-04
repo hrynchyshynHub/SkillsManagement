@@ -11,6 +11,7 @@
             <param-value>/WEB-INF/servlet-context.xml</param-value>
         </init-param>
     </servlet>
+
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
         <url-pattern>/</url-pattern>

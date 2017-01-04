@@ -6,6 +6,7 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <head>
     <title>Registration</title>
+    <link rel="stylesheet" href="/css/bootstrap.css">
 </head>
 
 

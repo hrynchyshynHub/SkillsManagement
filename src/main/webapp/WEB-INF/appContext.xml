@@ -34,4 +34,5 @@
     <jpa:repositories base-package="ua.com.skills.dao"/>
 
     <tx:annotation-driven transaction-manager="transactionManager"/>
+    <tx:annotation-driven />
 </beans>
